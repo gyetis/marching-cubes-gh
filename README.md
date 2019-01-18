@@ -10,7 +10,7 @@ Marching Cubes algorithm was introduced by Lorensen and Cline in 1987. Please vi
 
 Rhinoceros v.5/v.6
 
-IronPython > 2.7
+IronPython >= 2.7
 
 GHPython
 
