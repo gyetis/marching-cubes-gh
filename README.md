@@ -1,5 +1,7 @@
 # Marching Cubes Implementation for Grasshopper and Rhinoceros
 
+Marching Cubes algorithm takes raw point cloud data and generate a mesh out of it by using 256 possible polygon configurations within a cube. 
+
 ![](./marchingcubes_gh.JPG)
 
 ## Citation
@@ -18,9 +20,9 @@ GHPython
 
 Open Rhinoceros and Grasshopper.
 
-Drag "MarchingCubes.p2.7.5.0.ghpy" file directly into the Grasshopper window.
+Drag **"MarchingCubes.p2.7.5.0.ghpy"** file directly into the Grasshopper window.
 
-Just in case the failure of installation in Rhinoceros v5., "marchingcubes_rhino_gh.py" code can be copied into GHPython component. 
+Just in case the failure of installation in Rhinoceros v5., **"marchingcubes_rhino_gh.py"** code can be copied into GHPython component. 
 
 ## Usage
 
